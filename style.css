@@ -1,0 +1,146 @@
+body {
+	background-image: url(img/campo.jpg);
+    background-attachment: local;
+    
+}
+
+h1 {
+	text-align: center;
+    font-family: 'Bebas Neue', cursive;
+   
+}
+
+a {
+	color: #000000;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 20px;
+}
+
+a:hover {
+	color: #000000;
+}
+
+#corpo {
+	margin-left: auto;
+	margin-right: auto;
+	margin-top:70px;
+    width: 700px;
+	height: 500px;
+	background-color: #90EE90;
+	border: solid 5px  #000;
+     
+}
+
+#corpo2 {
+	margin-left: auto;
+	margin-right: auto;
+	width: 700px;
+	height: 1050px;
+	background-color: #90EE90;
+	border: solid 5px  #000;
+}
+
+#tela {
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 65px;
+	width: 500px;
+	height: 100px;
+	background-color: #FFF;
+	border: medium solid black;
+}
+
+#botoes {
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 85px;
+	width: 460px;
+}
+
+#creditos_txt {
+	margin-left: 80px;
+	margin-top: 30px;
+	float: left;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 20px;
+
+}
+
+#creditos {
+	clear: left;
+	margin-left: 75px;
+	float: left;
+    
+}
+
+#valor_txt {
+	margin-left: 530px;
+	margin-top: 30px;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 20px;
+
+
+}
+
+#valor {
+	margin-left: 560px;
+    
+}
+
+#slot1 {
+	margin-top: 5px;
+	padding-left: 17px;
+	padding-right: 17px;
+	float: left;
+	border-right: thin dashed black;
+	width: 90px;
+	height: 90px;
+	vertical-align: middle;
+}
+
+#slot2 {
+	margin-top: 5px;
+	padding-left: 17px;
+	padding-right: 17px;
+	float: left;
+	border-right: thin dashed black;
+	width: 90px;
+	height: 90px;
+	vertical-align: middle;
+}
+
+#slot3 {
+	margin-top: 5px;
+	padding-left: 17px;
+	padding-right: 17px;
+	float: left;
+	border-right: thin dashed black;
+	width: 90px;
+	height: 90px;
+	vertical-align: middle;
+}
+
+#slot4 {
+	margin-top: 5px;
+	padding-left: 17px;
+	padding-right: 17px;
+	float: left;
+	width: 90px;
+	height: 90px;
+	vertical-align: middle;
+}
+
+#rodapé {
+	text-align: center;
+    
+}
+
+#tabela {
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+    font-family: 'PT Sans Narrow', sans-serif;
+    font-size: 18px;
+    text-shadow: 1px 1px 1px;
+
+}
